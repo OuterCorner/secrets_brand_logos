@@ -12,5 +12,6 @@ To submit a PR:
 1. Clone this repo
 1. Add logos to the Logos/ folder 
 	(they should be 1024x1024)
-1. Update either service_map.txt or card_map.txt with '''<filename>:<regexp>'''
+1. Update either service_map.txt or card_map.txt with ```<filename>:<regexp>```
+1. File the Pull Request
 
