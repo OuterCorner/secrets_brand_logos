@@ -1,6 +1,6 @@
 # Secrets Brand Logos
 
-This is a collection of curated brand logos for popular services (such as Facebook, Twitter, etc) and Credit Card brands to be used in (Secrets)[https://outercorner.com/secrets/] for Mac and iOS.
+This is a collection of curated brand logos for popular services (such as Facebook, Twitter, etc) and Credit Card brands to be used in [Secrets](https://outercorner.com/secrets/) for Mac and iOS.
 
 
 ## Contributing
