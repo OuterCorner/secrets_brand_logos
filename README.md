@@ -5,7 +5,7 @@ This is a collection of curated brand logos for popular services (such as Facebo
 
 ## Contributing
 
-Want to see a logo within the app? You can submit a Pull request for it to be added. Secrets will periodically check for updated logos and display them within the app.
+Want to see a logo within the app? You can submit a Pull Request for it to be added. Secrets will periodically check for updated logos and display them within the app.
 
 To submit a PR:
 
