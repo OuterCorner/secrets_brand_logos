@@ -94,6 +94,7 @@ moo.jpg: ^(.*\.)?moo\.com
 musixmatch.png: ^(.*\.)?musixmatch\.com
 newegg.jpg: ^(.*\.)?newegg\.com
 newrelic.jpg: ^(.*\.)?newrelic\.com
+netflix.jpg: ^(.*\.)?netflix\.com
 npm.png: ^(.*\.)?npmjs\.com
 nike.png: ^(.*\.)?nike\.com
 oauth.png: ^(.*\.)?oauth\.io
