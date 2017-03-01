@@ -34,6 +34,7 @@ booking.png: ^(.*\.)?booking\.com
 box.png: app\.box\.com
 buffer.png: ^(.*\.)?buffer\.com
 bugcrowd.png: ^(.*\.)?bugcrowd\.com
+calm.png: ^(.*\.)?calm\.com
 chess.jpg: ^(.*\.)?chess\.com
 chesskid.jpg: ^(.*\.)?chesskid\.com
 chickfila.jpg: ^(.*\.)?chick-fil-a\.com
@@ -43,6 +44,7 @@ codeschool.jpg: ^(.*\.)?codeschool\.com
 convertkit.png: ^(.*\.)?convertkit\.com
 copy.png: ^(.*\.)?copy\.com
 coursera.png: ^(.*\.)?coursera\.org
+cvs.png: ^(.*\.)?cvs\.com
 dayone.png: ^(.*\.)?dayoneapp\.com
 dell.png: ^(.*\.)?dell\.com
 delta.png: ^(.*\.)?delta\.com
@@ -51,7 +53,7 @@ discord.jpg: ^(.*\.)?discordapp\.com
 discover.png: ^(.*\.)?discover\.com
 disqus.jpg: ^(.*\.)?disqus\.com
 docusign.jpg: ^(.*\.)?docusign\.net
-dollarshaveclub.jpg: ^(.*\.)?dollarshaveclub\.com
+dollarshaveclub.png: ^(.*\.)?dollarshaveclub\.com
 dropbox.png: ^(.*\.)?dropbox\.com
 dunkindonuts.png: ^(.*\.)?dunkindonuts\.com
 duolingo.png: ^(.*\.)?duolingo\.com
@@ -67,11 +69,16 @@ eventbrite.jpg: ^(.*\.)?eventbrite\.com
 etsy.png: ^(.*\.)?etsy\.com
 evernote.png: ^(.*\.)?evernote\.com
 expedia.png: .*\expedia\..*
+express.png: ^(.*\.)?express\.com
 facebook.png: ^(.*\.)?facebook\.com
+fancy.png: ^(.*\.)?fancy\.com
+fedex.png: ^(.*\.)?fedex\.com
 feedly.jpg: ^(.*\.)?feedly\.com
+fitbit.png: ^(.*\.)?fitbit\.com
 flipboard.png: ^(.*\.)?flipboard\.com
 foodler.png: ^(.*\.)?foodler\.com
 foursquare.png: ^(.*\.)?foursquare\.com
+frankandoak.png: ^(.*\.)?frankandoak\.com
 garmin.jpg: ^(.*\.)?garmin\.com
 garminconnect.jpg: ^(.*\.)?connect\.garmin\.com
 getcloudapp.jpg: ^(.*\.)?getcloudapp\.com
