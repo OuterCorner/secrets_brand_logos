@@ -1,6 +1,8 @@
-visa.jpg: visa
-mastercard.png: mastercard
-amex.jpg: amex
+amex.png: amex
 diners.jpg: diners
 discover.png: discover
 jcb.jpg: jcb
+mastercard.png: mastercard
+visa.png: visa
+
+
