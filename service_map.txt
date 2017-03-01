@@ -16,7 +16,7 @@ amctheatres.jpg: ^(.*\.)?amctheatres\.com
 amex.png: ^(.*\.)?americanexpress\.com
 apple.png: ^(.*\.)?apple\.com
 appnet.jpg: ^(.*\.)?app\.net
-appshopper.png: ^(.*\.)?appshopper\.com
+appshopper.jpg: ^(.*\.)?appshopper\.com
 aol.png: ^(.*\.)?aol\.com
 atlassian.jpg: ^(.*\.)?atlassian\.net
 att.png: ^(.*\.)?att\.com
@@ -84,7 +84,7 @@ gravity.png: ^(.*\.)?gravityhelp\.com
 grindr.png: ^(.*\.)?grindr\.com
 groupme.jpg: ^(.*\.)?groupme\.com
 grubhub.png: ^(.*\.)?grubhub\.com
-habitica.png: ^(.*\.)?habitica\.com
+habitica.jpg: ^(.*\.)?habitica\.com
 harrys.jpg: ^(.*\.)?harrys\.com
 harvest.jpg: ^(.*\.)?getharvest\.com
 heroku.png: ^(.*\.)?heroku.com
@@ -172,7 +172,7 @@ verizon.jpg: ^(.*\.)?verizon\.com
 vimeo.png: ^(.*\.)?vimeo\.com
 vine.png: ^(.*\.)?vine\.co
 visa.png: ^(.*\.)?myaccountaccess\.com
-walgreens: ^(.*\.)?walgreens\.com
+walgreens.png: ^(.*\.)?walgreens\.com
 wish.jpg: ^(.*\.)?wish\.com
 wolfram.png: ^(.*\.)?wolframalpha\.com
 wordpress.png: ^(.*\.)?wordpress\.[com|org]

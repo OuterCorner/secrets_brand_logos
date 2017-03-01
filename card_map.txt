@@ -4,5 +4,3 @@ discover.png: discover
 jcb.jpg: jcb
 mastercard.png: mastercard
 visa.png: visa
-
-
