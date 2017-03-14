@@ -97,6 +97,7 @@ harvest.jpg: ^(.*\.)?getharvest\.com
 heroku.png: ^(.*\.)?heroku.com
 hightail.png: ^(.*\.)?hightail\.com
 hipchat.jpg: ^(.*\.)?hipchat\.com
+hockey.png: ^(.*\.)?hockeyapp\.net
 hulu.png: ^(.*\.)?hulu\.com
 ifttt.jpg: ^(.*\.)?ifttt\.com
 imdb.png: ^(.*\.)?imdb\.com
