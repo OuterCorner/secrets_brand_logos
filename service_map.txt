@@ -113,7 +113,7 @@ godaddy.jpg: ^(.*\.)?godaddy\.com
 gravity.png: ^(.*\.)?gravityhelp\.com
 grindr.png: ^(.*\.)?grindr\.com
 groupme.jpg: ^(.*\.)?groupme\.com
-groupon.png: ^(.*\.)?groupon\.com
+groupon.jpg: ^(.*\.)?groupon\.com
 grubhub.png: ^(.*\.)?grubhub\.com
 habitica.jpg: ^(.*\.)?habitica\.com
 harrys.jpg: ^(.*\.)?harrys\.com
