@@ -48,6 +48,7 @@ cardiogram.png: ^(.*\.)?cardiogr\.am
 cbs.png: ^(.*\.)?cbs\.com
 chainscc.png: ^(.*\.)?chains\.cc
 changedotorg.png: ^(.*\.)?change\.org
+chase.png: ^(.*\.)?chase\.com
 chaturbate.png: ^(.*\.)?chaturbate\.com
 chess.jpg: ^(.*\.)?chess\.com
 chesskid.jpg: ^(.*\.)?chesskid\.com
@@ -161,6 +162,7 @@ linode.jpg: ^(.*\.)?linode\.com
 listia.png: ^(.*\.)?listia\.com
 logmein.png: ^(.*\.)?logmein\.com
 loseit.png: ^(.*\.)?loseit\.com
+macrumors.png: ^(.*\.)?macrumors\.com
 mailchimp.jpg: ^(.*\.)?mailchimp\.com
 mbta.png: ^(.*\.)?mbta\.com
 mediatemple.jpg: ^(.*\.)?mediatemple\.net
