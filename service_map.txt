@@ -80,6 +80,7 @@ docusign.jpg: ^(.*\.)?docusign\.net
 dollarshaveclub.png: ^(.*\.)?dollarshaveclub\.com
 dribbble.png: ^(.*\.)?dribbble\.com
 dropbox.png: ^(.*\.)?dropbox\.com
+duckduckgo: ^(.*\.)?duckduckgo\.com
 dunkindonuts.png: ^(.*\.)?dunkindonuts\.com
 duolingo.png: ^(.*\.)?duolingo\.com
 ea.png: ^(.*\.)?origin\.com
@@ -118,6 +119,7 @@ garminconnect.jpg: ^(.*\.)?connect\.garmin\.com
 genius.png: ^(.*\.)?genius\.com
 getcloudapp.jpg: ^(.*\.)?getcloudapp\.com
 getdrip.jpg: ^(.*\.)?getdrip\.com
+ghostery.png: ^(.*\.)?ghostery\.com
 giphy.png: ^(.*\.)?giphy\.com
 github.png: ^(.*\.)?github\.com
 glassdoor.png: ^(.*\.)?glassdoor\.com
