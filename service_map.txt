@@ -24,6 +24,7 @@ aol.png: ^(.*\.)?aol\.com
 atlassian.jpg: ^(.*\.)?atlassian\.net
 att.png: ^(.*\.)?att\.com
 audible.jpg: ^(.*\.)?audible\.com
+autodesk.jpg: ^(.*\.)?autodesk\.com
 aweber.jpg: ^(.*\.)?aweber\.com
 backblaze.jpg: ^(.*\.)?backblaze\.com
 baidu.png: ^(.*\.)?baidu\.com
@@ -32,11 +33,13 @@ bankofoklahoma.jpg: ^(.*\.)?bankofoklahoma\.com
 barnes&noble.jpg: ^(.*\.)?barnesandnoble\.com
 battlenet.png: ^(.*\.)?battle\.net
 bbc.png: ^(.*\.)?bbc\.com
+beampro.png: ^(.*\.)?beam\.pro
 bellescamp.jpg: ^(.*\.)?bellescamp\.com
 bellycard.png: ^(.*\.)?bellycard\.com
 bitbucket.png: ^(.*\.)?bitbucket\.org
 blueapron.png: ^(.*\.)?blueapron\.com
 bluehost.png: ^(.*\.)?bluehost\.com
+bme.png: ^(.*\.)?bme\.com
 booking.png: ^(.*\.)?booking\.com
 box.png: app\.box\.com
 brigade.png: ^(.*\.)?brigade\.com
@@ -45,6 +48,7 @@ bugcrowd.png: ^(.*\.)?bugcrowd\.com
 buzzfeed.png: ^(.*\.)?buzzfeed\.com
 calm.png: ^(.*\.)?calm\.com
 cardiogram.png: ^(.*\.)?cardiogr\.am
+careerbuilder.png: ^(.*\.)?careerbuilder\.com
 cbs.png: ^(.*\.)?cbs\.com
 chainscc.png: ^(.*\.)?chains\.cc
 changedotorg.png: ^(.*\.)?change\.org
