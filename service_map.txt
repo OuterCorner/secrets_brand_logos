@@ -25,7 +25,7 @@ aol.png: ^(.*\.)?aol\.com
 atlassian.jpg: ^(.*\.)?atlassian\.net
 att.png: ^(.*\.)?att\.com
 audible.jpg: ^(.*\.)?audible\.com
-autodesk.jpg: ^(.*\.)?autodesk\.com
+autodesk.png: ^(.*\.)?autodesk\.com
 aweber.jpg: ^(.*\.)?aweber\.com
 backblaze.jpg: ^(.*\.)?backblaze\.com
 baidu.png: ^(.*\.)?baidu\.com
@@ -85,7 +85,7 @@ docusign.jpg: ^(.*\.)?docusign\.net
 dollarshaveclub.png: ^(.*\.)?dollarshaveclub\.com
 dribbble.png: ^(.*\.)?dribbble\.com
 dropbox.png: ^(.*\.)?dropbox\.com
-duckduckgo: ^(.*\.)?duckduckgo\.com
+duckduckgo.png: ^(.*\.)?duckduckgo\.com
 dunkindonuts.png: ^(.*\.)?dunkindonuts\.com
 duolingo.png: ^(.*\.)?duolingo\.com
 ea.png: ^(.*\.)?origin\.com
