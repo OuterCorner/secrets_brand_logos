@@ -1,6 +1,7 @@
 1&1.png: ^(.*\.)?1and1\.com
 20lines.png: ^(.*\.)?20lines\.com
 23andme.jpg: ^(.*\.)?23andme\.com
+30boxes.png: ^(.*\.)?30boxes\.com
 500px.png: ^(.*\.)?500px\.com
 7cups.png: ^(.*\.)?7cups\.com
 aaa.jpg: ^(.*\.)?aaa\.com
@@ -175,6 +176,7 @@ mediatemple.jpg: ^(.*\.)?mediatemple\.net
 medisafe.png: ^(.*\.)?medisafe\.com
 meh.jpg: ^(.*\.)?meh\.com
 metacritic.png: ^(.*\.)?metacritic\.com
+meundies.png: ^(.*\.)?meundies\.com
 microsoft.png: login\.live\.com
 mimo.png: ^(.*\.)?getmimo\.com
 minecraft.png: ^(.*\.)?minecraft\.net
@@ -235,6 +237,7 @@ slickdeals.png: ^(.*\.)?slickdeals\.net
 slideshare.jpg: ^(.*\.)?slideshare\.net
 snapchat.png: ^(.*\.)?snapchat\.com
 snapguide.png: ^(.*\.)?snapguide\.com
+sololearn.png: ^(.*\.)?sololearn\.com
 sortly.png: ^(.*\.)?sortlyapp\.com
 soundcloud.png: ^(.*\.)?soundcloud\.com
 southwest.png: ^(.*\.)?southwest\.com
