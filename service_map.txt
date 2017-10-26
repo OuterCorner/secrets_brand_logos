@@ -101,7 +101,7 @@ epicurious.png: ^(.*\.)?epicurious\.com
 eventbrite.jpg: ^(.*\.)?eventbrite\.com
 etsy.png: ^(.*\.)?etsy\.com
 evernote.png: ^(.*\.)?evernote\.com
-expedia.png: .*\expedia\..*
+expedia.png: ^www\.expedia\.[com|com\.ar|com.au|at|be|com.br|ca|cn|dk|fi|fr|de|com.hk|co.in|co.id|ie|it|co.jp|co.kr|com.my|mx|nl|co.nz|no|com.ph|com.sg|es|se|ch|com.tw|co.th|co.uk|com.vn]
 express.png: ^(.*\.)?express\.com
 facebook.png: ^(.*\.)?facebook\.com
 fancy.png: ^(.*\.)?fancy\.com
