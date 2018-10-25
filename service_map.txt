@@ -305,3 +305,4 @@ zocdoc.png: ^(.*\.)?zocdoc\.com
 zombiesrun.png: ^(.*\.)?zombiesrungame\.com
 zwift.jpg: ^(.*\.)?zwift\.com
 setapp.png: ^(.*\.)?setapp\.com
+transferwise.png: ^(.*\.)?transferwise\.com
