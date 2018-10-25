@@ -317,3 +317,4 @@ boursorama.png: ^(.*\.)?boursorama\.com
 lcl.png: ^(.*\.)?lcl\.fr
 es.png: ^(.*\.)?es\.fr
 greenweez.png: ^(.*\.)?greenweez\.com
+gouv.png: ^(.*\.)?gouv\.fr
