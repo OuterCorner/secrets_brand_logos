@@ -308,3 +308,4 @@ setapp.png: ^(.*\.)?setapp\.com
 transferwise.png: ^(.*\.)?transferwise\.com
 maaf.png: ^(.*\.)?maaf\.fr
 doctolib.png: ^(.*\.)?doctolib\.fr
+bouyguestelecom.png: ^(.*\.)?bouyguestelecom\.fr
