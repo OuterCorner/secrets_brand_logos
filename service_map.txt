@@ -318,3 +318,4 @@ lcl.png: ^(.*\.)?lcl\.fr
 es.png: ^(.*\.)?es\.fr
 greenweez.png: ^(.*\.)?greenweez\.com
 gouv.png: ^(.*\.)?gouv\.fr
+pole-emploi.png: ^(.*\.)?pole-emploi\.fr
