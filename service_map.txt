@@ -314,3 +314,4 @@ ingdirect.png: ^(.*\.)?ingdirect\.fr
 webportage.png: ^(.*\.)?webportage\.com
 cts-strasbourg.png: ^(.*\.)?cts-strasbourg\.eu
 boursorama.png: ^(.*\.)?boursorama\.com
+lcl.png: ^(.*\.)?lcl\.fr
