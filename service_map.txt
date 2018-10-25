@@ -316,3 +316,4 @@ cts-strasbourg.png: ^(.*\.)?cts-strasbourg\.eu
 boursorama.png: ^(.*\.)?boursorama\.com
 lcl.png: ^(.*\.)?lcl\.fr
 es.png: ^(.*\.)?es\.fr
+greenweez.png: ^(.*\.)?greenweez\.com
