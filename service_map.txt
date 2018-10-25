@@ -320,3 +320,4 @@ greenweez.png: ^(.*\.)?greenweez\.com
 gouv.png: ^(.*\.)?gouv\.fr
 pole-emploi.png: ^(.*\.)?pole-emploi\.fr
 caf.png: ^(.*\.)?caf\.fr
+mondocteur.png: ^(.*\.)?mondocteur\.fr
