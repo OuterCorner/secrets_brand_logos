@@ -306,3 +306,4 @@ zombiesrun.png: ^(.*\.)?zombiesrungame\.com
 zwift.jpg: ^(.*\.)?zwift\.com
 setapp.png: ^(.*\.)?setapp\.com
 transferwise.png: ^(.*\.)?transferwise\.com
+maaf.png: ^(.*\.)?maaf\.fr
