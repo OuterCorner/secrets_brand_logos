@@ -310,3 +310,4 @@ maaf.png: ^(.*\.)?maaf\.fr
 doctolib.png: ^(.*\.)?doctolib\.fr
 bouyguestelecom.png: ^(.*\.)?bouyguestelecom\.fr
 zalando.png: ^(.*\.)?zalando\.[de|at|ch|uk|pl|be|nl|es|it|fr|lu|no|se|dk|fi|com]
+ingdirect.png: ^(.*\.)?ingdirect\.fr
