@@ -322,3 +322,7 @@ pole-emploi.png: ^(.*\.)?pole-emploi\.fr
 caf.png: ^(.*\.)?caf\.fr
 mondocteur.png: ^(.*\.)?mondocteur\.fr
 kvartplata.png: ^(.*\.)?kvartplata\.info
+outercorner.png: ^(.*\.)?outercorner\.com
+survs.png: ^(.*\.)?survs\.com
+probely.jpg: ^(.*\.)?probely\.com
+weev.png: ^(.*\.)?weev\.store
