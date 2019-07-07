@@ -1,5 +1,5 @@
 amex.png: amex
-diners.jpg: diners
+diners.png: diners
 discover.png: discover
 jcb.jpg: jcb
 mastercard.png: mastercard
