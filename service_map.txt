@@ -58,7 +58,7 @@ cbs.png: ^(.*\.)?cbs\.com
 chainscc.png: ^(.*\.)?chains\.cc
 changedotorg.png: ^(.*\.)?change\.org
 channel4.png: ^(.*\.)?channel4\.com
-channel5.png: ^(.*\.)?channel4\.com
+channel5.png: ^(.*\.)?channel5\.com
 chase.png: ^(.*\.)?chase\.com
 chaturbate.png: ^(.*\.)?chaturbate\.com
 chess.jpg: ^(.*\.)?chess\.com
